@@ -1,9 +1,7 @@
 TITLE := Title
-CONTROLS := false
-PROGRESS := false
 
 slides.html: src/slides.md
-	@cleaver \
+	@./node_modules/.bin/cleaver \
 		--theme . \
 		--title "$(TITLE)" \
 		--debug \

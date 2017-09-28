@@ -1,5 +1,5 @@
 {
-  "name": "cleaver-seed",
+  "name": "cleaver-seed-babel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "browserify": "^14.4.0",
     "cleaver": "^0.8.5"
   }
 }

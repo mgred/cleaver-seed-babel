@@ -1,19 +1,19 @@
-#[Cleaver](https://github.com/jdan/cleaver/) Seed
+# [Cleaver](https://github.com/jdan/cleaver/) Seed
 
 A skeleton for a cleaver seed template which includes custom styles and a
 custom javascript file.
 
-##Requirements
+## Requirements
 
 * Cleaver
 * GNU Make
 
-##Install
+## Install
 
 ```bash
 npm install
 ```
 
-##Build
+## Build
 
 * `make` - Compiles the slides.md and bundles the assets

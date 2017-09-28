@@ -5,6 +5,7 @@ custom javascript file.
 
 ## Requirements
 
+* Node & npm
 * Cleaver
 * GNU Make
 
